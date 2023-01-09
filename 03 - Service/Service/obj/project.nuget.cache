@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHi7K2rl7g1vRCXNxX/easX3RFI89nq0+zHO73h0pFtgCFl5vp3tQU7YvjjpXgyUmDAm+KO+3MaUcSC2BLWvJg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GitHub\\.Net\\API_Base_CSharp-MySql\\03 - Service\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
